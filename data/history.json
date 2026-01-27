@@ -1,0 +1,425 @@
+{
+  "processed_sessions": {
+    "540c6a94-c690-48ab-a69b-8796f5b1c960": {
+      "processed_at": "2026-01-26T01:40:11.553359",
+      "pdf_file": "data\\raw\\sednica_065_00_2025-07-31.pdf",
+      "jsonl_file": "data\\processed\\sednica_065_00_2025-07-31.jsonl",
+      "speech_count": 7,
+      "session_num": "065",
+      "continuation": "00",
+      "date": "2025-07-31",
+      "filename": "sednica_065_00_2025-07-31.pdf",
+      "original_text": "Стенографски белешки од 065 седница на Собранието на РСМ на 31.07.2025"
+    },
+    "4f40084f-c6db-4162-a90a-8f7cf7577975": {
+      "processed_at": "2026-01-26T01:43:03.615294",
+      "pdf_file": "data\\raw\\sednica_020_00_2024-11-21.pdf",
+      "jsonl_file": "data\\processed\\sednica_020_00_2024-11-21.jsonl",
+      "speech_count": 108,
+      "session_num": "020",
+      "continuation": "00",
+      "date": "2024-11-21",
+      "filename": "sednica_020_00_2024-11-21.pdf",
+      "original_text": "Стенографски белешки од 00 продолжение 020 седница на Собранието на РСМ на 21.11.2024"
+    },
+    "f9a4d508-4909-4978-9237-d3f1c33a48b6": {
+      "processed_at": "2026-01-26T01:46:37.487371",
+      "pdf_file": "data\\raw\\sednica_076_00_2025-12-16.pdf",
+      "jsonl_file": "data\\processed\\sednica_076_00_2025-12-16.jsonl",
+      "speech_count": 90,
+      "session_num": "076",
+      "continuation": "00",
+      "date": "2025-12-16",
+      "filename": "sednica_076_00_2025-12-16.pdf",
+      "original_text": "Стенографски белешки од  076 седница на Собранието на РСМ на 16.12.2025"
+    },
+    "d5575971-6578-4853-9ee8-e1e85d6f38da": {
+      "processed_at": "2026-01-26T01:48:38.754306",
+      "pdf_file": "data\\raw\\sednica_079_00_2025-12-29.pdf",
+      "jsonl_file": "data\\processed\\sednica_079_00_2025-12-29.jsonl",
+      "speech_count": 42,
+      "session_num": "079",
+      "continuation": "00",
+      "date": "2025-12-29",
+      "filename": "sednica_079_00_2025-12-29.pdf",
+      "original_text": "Стенографски белешки од  079 седница на Собранието на РСМ на 29.12.2025"
+    },
+    "f306b9c4-6d79-43dc-bae7-4ce0cb8fc43d": {
+      "processed_at": "2026-01-26T01:48:56.079835",
+      "pdf_file": "data\\raw\\sednica_072_01_2025-12-04.pdf",
+      "jsonl_file": "data\\processed\\sednica_072_01_2025-12-04.jsonl",
+      "speech_count": 2,
+      "session_num": "072",
+      "continuation": "01",
+      "date": "2025-12-04",
+      "filename": "sednica_072_01_2025-12-04.pdf",
+      "original_text": "Стенографски белешки од 01 продолжение 072 седница на Собранието на РСМ на 04.12.2025"
+    },
+    "4b456a04-f6f8-45ee-a543-4dfd42e83035": {
+      "processed_at": "2026-01-26T03:06:51.054375",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T03:06:51.054365"
+    },
+    "03141907-bd27-4ef2-a4a3-bbee47835a5d": {
+      "processed_at": "2026-01-26T03:07:35.624353",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T03:07:35.624345"
+    },
+    "1bc51224-5b4f-458f-8df8-0f0a9387b4ef": {
+      "processed_at": "2026-01-26T03:08:25.078119",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T03:08:25.078107"
+    },
+    "061cef4c-1cb8-4a4b-a9fe-dc3207bc2bba": {
+      "processed_at": "2026-01-26T19:28:11.838553",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T19:28:11.838532"
+    },
+    "3ae1450f-94ca-4425-abd9-eb48fd699c73": {
+      "processed_at": "2026-01-26T19:28:53.338905",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T19:28:53.338897"
+    },
+    "9a2f0e7f-1bea-4697-94ea-aee74babb2f4": {
+      "processed_at": "2026-01-26T19:29:41.827388",
+      "files_processed": 3,
+      "total_files_found": 3,
+      "last_processed": "2026-01-26T19:29:41.827379"
+    },
+    "c9d9368a-a418-4c4f-93ba-eef9a44c6af8": {
+      "processed_at": "2026-01-26T20:31:44.323714",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:31:44.323706"
+    },
+    "e6ab475a-6315-4b48-a679-d7ec51c7cfac": {
+      "processed_at": "2026-01-26T20:32:35.431065",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:32:35.431054"
+    },
+    "f46294c0-045b-4f32-a948-c46041f31d0a": {
+      "processed_at": "2026-01-26T20:33:19.923914",
+      "files_processed": 3,
+      "total_files_found": 3,
+      "last_processed": "2026-01-26T20:33:19.923901"
+    },
+    "9eb99034-489c-4fc3-8003-52724a2d1dba": {
+      "processed_at": "2026-01-26T20:34:00.125913",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:34:00.125904"
+    },
+    "27bf274e-2c3e-45cd-8b53-bd39a7d58bb5": {
+      "processed_at": "2026-01-26T20:34:46.851806",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:34:46.851800"
+    },
+    "2e090b5f-5e35-494b-8f48-79414a79ae55": {
+      "processed_at": "2026-01-26T20:35:27.622347",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:35:27.622338"
+    },
+    "b60578d7-8895-4bcc-beba-b49003c26b6f": {
+      "processed_at": "2026-01-26T20:36:15.042823",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T20:36:15.042815"
+    },
+    "abcbba82-c7c9-469b-a379-3a25389f350f": {
+      "processed_at": "2026-01-26T20:37:02.926759",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:37:02.926745"
+    },
+    "42798ee9-8c40-48be-8f3e-d6b93d3e8efa": {
+      "processed_at": "2026-01-26T20:37:51.964234",
+      "files_processed": 3,
+      "total_files_found": 3,
+      "last_processed": "2026-01-26T20:37:51.964224"
+    },
+    "f28e8ddc-e916-47ac-907f-004c61d5dc63": {
+      "processed_at": "2026-01-26T20:38:37.373411",
+      "files_processed": 4,
+      "total_files_found": 4,
+      "last_processed": "2026-01-26T20:38:37.373403"
+    },
+    "5afc1e0b-a210-4b0f-a6be-26c72be653aa": {
+      "processed_at": "2026-01-26T20:39:31.683275",
+      "files_processed": 3,
+      "total_files_found": 3,
+      "last_processed": "2026-01-26T20:39:31.683266"
+    },
+    "3e551f4f-ee55-4857-b08e-295349e36317": {
+      "processed_at": "2026-01-26T20:40:19.043248",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T20:40:19.043240"
+    },
+    "82eeba43-7476-4c87-90a1-6ef4ca22ec13": {
+      "processed_at": "2026-01-26T20:41:00.136047",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:41:00.136038"
+    },
+    "1ad9c148-d643-45cb-ba63-adc00cd10bd4": {
+      "processed_at": "2026-01-26T20:41:46.088080",
+      "files_processed": 4,
+      "total_files_found": 4,
+      "last_processed": "2026-01-26T20:41:46.088073"
+    },
+    "a0028a1d-767b-4ef0-8cb9-c8f2652c9867": {
+      "processed_at": "2026-01-26T20:42:29.423279",
+      "files_processed": 4,
+      "total_files_found": 4,
+      "last_processed": "2026-01-26T20:42:29.423269"
+    },
+    "3d9fdf8a-bfc9-4dcb-99d4-b3c4aa96fc52": {
+      "processed_at": "2026-01-26T20:43:19.584353",
+      "files_processed": 3,
+      "total_files_found": 3,
+      "last_processed": "2026-01-26T20:43:19.584346"
+    },
+    "21625661-0a27-4cf1-a41b-86dffb0ced4a": {
+      "processed_at": "2026-01-26T20:44:00.114906",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:44:00.114891"
+    },
+    "d1919857-419a-4748-a648-06262b01a9db": {
+      "processed_at": "2026-01-26T20:44:48.966218",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:44:48.966211"
+    },
+    "bfd891bf-99c3-46aa-b206-6aa1a57c6ecc": {
+      "processed_at": "2026-01-26T20:45:35.271730",
+      "files_processed": 4,
+      "total_files_found": 4,
+      "last_processed": "2026-01-26T20:45:35.271717"
+    },
+    "f26dc941-5e12-482e-9f18-ff27581981b7": {
+      "processed_at": "2026-01-26T20:46:13.743551",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:46:13.743541"
+    },
+    "ef42d836-750c-458f-8309-f17db9002f91": {
+      "processed_at": "2026-01-26T20:47:00.133778",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:47:00.133768"
+    },
+    "fe5a7726-cfdc-441d-8628-2d063b1b8bc6": {
+      "processed_at": "2026-01-26T20:47:46.983912",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:47:46.983903"
+    },
+    "5c07e75b-4e5e-4fc6-b2b7-190f2e3b65a6": {
+      "processed_at": "2026-01-26T20:48:35.472035",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T20:48:35.472026"
+    },
+    "dbcce182-d3ad-4088-820f-f7a0ccf10939": {
+      "processed_at": "2026-01-26T20:49:23.346735",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:49:23.346728"
+    },
+    "a0567d72-4b40-405d-938a-91aa71e5b126": {
+      "processed_at": "2026-01-26T20:50:10.889776",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:50:10.889767"
+    },
+    "e88b7d2a-9a85-4be5-a91a-04aeb4bc039b": {
+      "processed_at": "2026-01-26T20:50:56.426622",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T20:50:56.426612"
+    },
+    "a12327be-4550-4161-9bd9-fa6b3b48ee07": {
+      "processed_at": "2026-01-26T20:52:43.671893",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:52:43.671887"
+    },
+    "c1df3d36-367d-4b9c-a5c4-6909afac76ff": {
+      "processed_at": "2026-01-26T20:53:24.485438",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:53:24.485428"
+    },
+    "c8e0c30f-e9e7-431f-a2b6-7b3c3aedf114": {
+      "processed_at": "2026-01-26T20:54:03.821011",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:54:03.821003"
+    },
+    "9ed95d9c-759f-4ed0-b151-412fe67d5924": {
+      "processed_at": "2026-01-26T20:54:57.805144",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:54:57.805135"
+    },
+    "855380da-6ac6-4ae0-9ccd-72f5b46f7eb1": {
+      "processed_at": "2026-01-26T20:55:42.969273",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T20:55:42.969264"
+    },
+    "4d9e5088-7b95-4e68-91b3-c625fdb7011e": {
+      "processed_at": "2026-01-26T20:56:24.674312",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T20:56:24.674303"
+    },
+    "4cb8658e-fe24-4156-bc6e-aee71e7e950a": {
+      "processed_at": "2026-01-26T20:57:20.831241",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T20:57:20.831227"
+    },
+    "78993495-0a92-4092-92ec-7cbcbeb33bc0": {
+      "processed_at": "2026-01-26T20:58:09.530554",
+      "files_processed": 3,
+      "total_files_found": 3,
+      "last_processed": "2026-01-26T20:58:09.530545"
+    },
+    "c85da1d2-908c-4dd7-af70-e3b5839afc6d": {
+      "processed_at": "2026-01-26T20:58:54.220919",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T20:58:54.220911"
+    },
+    "40513890-07fa-4eb6-93e2-c094074b4238": {
+      "processed_at": "2026-01-26T21:00:03.392835",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:00:03.392823"
+    },
+    "800ce37a-3b92-43d6-aca0-4c2fa3c431b3": {
+      "processed_at": "2026-01-26T21:01:01.076861",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:01:01.076846"
+    },
+    "ec7a3aea-b293-4752-961c-e5758df75c76": {
+      "processed_at": "2026-01-26T21:02:01.969573",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:02:01.969564"
+    },
+    "e51a6eca-e510-4dc5-bf84-7bfc4ed89f01": {
+      "processed_at": "2026-01-26T21:02:45.713685",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:02:45.713676"
+    },
+    "3ae2a626-bee6-4fc5-a4b1-1139231ea851": {
+      "processed_at": "2026-01-26T21:03:38.839164",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T21:03:38.839155"
+    },
+    "b8743e38-422f-491f-bbd5-214f850dc7da": {
+      "processed_at": "2026-01-26T21:04:23.210124",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T21:04:23.210115"
+    },
+    "50c22313-eea4-4a52-bbb3-d74d3e146660": {
+      "processed_at": "2026-01-26T21:05:14.895985",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:05:14.895976"
+    },
+    "4168dac6-55c2-4738-8e34-71ad5aee96cb": {
+      "processed_at": "2026-01-26T21:06:20.450144",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:06:20.449842"
+    },
+    "52113f8a-9cf0-4f14-b412-37211caeb158": {
+      "processed_at": "2026-01-26T21:07:16.194991",
+      "files_processed": 3,
+      "total_files_found": 3,
+      "last_processed": "2026-01-26T21:07:16.194981"
+    },
+    "6ccaaac7-a32b-476f-908f-91c7f569d71f": {
+      "processed_at": "2026-01-26T21:08:00.461457",
+      "files_processed": 3,
+      "total_files_found": 3,
+      "last_processed": "2026-01-26T21:08:00.461447"
+    },
+    "2012de31-caa1-4639-9c56-4182017ee034": {
+      "processed_at": "2026-01-26T21:08:54.588176",
+      "files_processed": 3,
+      "total_files_found": 3,
+      "last_processed": "2026-01-26T21:08:54.588167"
+    },
+    "11bfc165-a82b-47d9-8766-ff64ba1d663d": {
+      "processed_at": "2026-01-26T21:09:49.670417",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:09:49.670409"
+    },
+    "9d27c672-af6a-4b03-b657-5676b4a4152a": {
+      "processed_at": "2026-01-26T21:10:33.132771",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T21:10:33.132759"
+    },
+    "a5e840c0-8c8c-49db-a95f-95c464f423e3": {
+      "processed_at": "2026-01-26T21:11:22.603577",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:11:22.603567"
+    },
+    "8179e18e-e6a4-4640-91b7-88641a6258c4": {
+      "processed_at": "2026-01-26T21:13:07.820214",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-01-26T21:13:07.820189"
+    },
+    "72b88ffe-2270-4c6a-adcc-816a7ebda40a": {
+      "processed_at": "2026-01-26T21:13:48.659027",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:13:48.659018"
+    },
+    "b254356c-2701-41c4-b831-9d21f431b702": {
+      "processed_at": "2026-01-26T21:14:27.973078",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:14:27.973069"
+    },
+    "16bc90f9-408a-4496-99ae-d2da63a6eb7b": {
+      "processed_at": "2026-01-26T21:15:07.343614",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:15:07.343605"
+    },
+    "72c0b0d8-d42c-41e6-a974-5fb8e550e7cc": {
+      "processed_at": "2026-01-26T21:15:52.873099",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:15:52.873091"
+    },
+    "41ca9084-c990-40c9-919f-ec3936504654": {
+      "processed_at": "2026-01-26T21:16:36.390753",
+      "files_processed": 1,
+      "total_files_found": 1,
+      "last_processed": "2026-01-26T21:16:36.390745"
+    }
+  }
+}
