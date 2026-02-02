@@ -13,7 +13,7 @@ Automated crawler and parser for Macedonian Parliament stenographic notes.
 
 This repository is automatically updated every **Friday at 18:00 UTC** via GitHub Actions.
 
-[![Weekly Parliament Scraper](https://github.com/YOUR_USERNAME/sobranie_bot/actions/workflows/weekly_scrape.yml/badge.svg)](https://github.com/YOUR_USERNAME/sobranie_bot/actions/workflows/weekly_scrape.yml)
+[![Weekly Parliament Scraper](https://github.com/ditoelrey/sobranie-stenografi/tree/master/data)
 
 ## Manual Run
 
