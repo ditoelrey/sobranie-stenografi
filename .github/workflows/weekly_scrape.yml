@@ -68,6 +68,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new data to commit"
           else
-            git commit -m "🤖 Auto-update: New parliament session data $(date +'%Y-%m-%d')"
+            git commit -m " Auto-update: New parliament session data $(date +'%Y-%m-%d')"
             git push
           fi
