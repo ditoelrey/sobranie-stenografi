@@ -432,6 +432,12 @@
       "files_processed": 1,
       "total_files_found": 1,
       "last_processed": "2026-02-06T18:23:24.485843"
+    },
+    "a8d07373-3a70-4a5c-961a-9dda07fa4738": {
+      "processed_at": "2026-02-13T18:22:07.285281",
+      "files_processed": 2,
+      "total_files_found": 2,
+      "last_processed": "2026-02-13T18:22:07.285272"
     }
   }
 }
